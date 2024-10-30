@@ -15,10 +15,10 @@ Please kindly cite our paper if helps your research:
 ```
 
 ## 📋 Table of Content
-- [Query Reformulation](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#query-reformulation)
-  - [Query Reformulation in Conversational Search](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#query-reformulation-in-conversational-search)
-  - [Analysis of Existing Datasets](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#fine-tuning-methods)
-  - [Evaluation of Query Reformulation](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#evaluation-of-query-reformulation)
+- [Query Reformulation](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#query-reformulation)
+  - [Query Reformulation in Conversational Search](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#query-reformulation-in-conversational-search)
+  - [Analysis of Existing Datasets](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#analysis-of-existing-datasets)
+  - [Evaluation of Query Reformulation](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#evaluation-of-query-reformulation)
 - [Search Clarification](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#search-clarification)
   - [Clarification for Conversational Retrieval](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#clarification-for-conversational-retrieval)
   - [Web Search Clarification](https://github.com/fengranMark/ConvSearch-Survey/edit/main/README.md#web-search-clarification)
