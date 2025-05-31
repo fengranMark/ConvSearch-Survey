@@ -1,7 +1,7 @@
 # ConvSearch-Survey
 This is the collection of papers related to conversarional search. These papers are organized according to our survey paper [A Survey of Conversational Search](https://arxiv.org/pdf/2410.15576). 
 
-Feel free to contact us if you find a mistake or have any advice. Email: fengran.mo@umontreal.ca and dou@ruc.edu.cn.
+Feel free to contact us if you find a mistake or have any advice.
 
 ## 🌟 Citation
 Please kindly cite our paper if helps your research:
