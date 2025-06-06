@@ -38,7 +38,7 @@ Please kindly cite our paper if helps your research:
 - [Domain-specific and User-centric Conversational Search](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#domain-specific-and-user-centric-conversational-search)
   - [Domain-specific Conversational Search](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#domain-specific-conversational-search)
   - [User-centric Conversational Search](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#user-centric-conversational-search)
-- [Other Resources](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#other-resources)
+- [Benchmark and Evaluation](https://github.com/fengranMark/ConvSearch-Survey?tab=readme-ov-file#benchmark-and-evaluation)
 
 ## 📄 Paper List
 
@@ -215,9 +215,37 @@ Please kindly cite our paper if helps your research:
 13. **MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**, *Alonso et al.* Artificial Intelligence in Medicine. \[[Paper](https://dl.acm.org/doi/10.1016/j.artmed.2024.102938)\]
 
 #### Financial Domain Conversational Search
+1. **ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering**, *Chen et al.* EMNLP 2022. \[[Paper](https://doi.org/10.48550/arXiv.2210.03849)\]
+2. **StockBabble: {A} Conversational Financial Agent to support Stock Market Investors**, *Sharma et al.* arXiv 2021. \[[Paper](https://arxiv.org/abs/2106.08298)\]
+3. **{PACIFIC:} Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance**, *Deng et al.* EMNLP 2022. \[[Paper](https://doi.org/10.48550/arXiv.2210.08817)\]
+4. **Tab-CQA: {A} Tabular Conversational Question Answering Dataset on Financial Reports**, *Liu et al.* ACL 2023. \[[Paper](https://doi.org/10.18653/v1/2023.acl-industry.20)\]
+5. **Conversational Financial Information Retrieval Model (ConFIRM)**, *Choi et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2310.13001)\]
+6. **{PIXIU:} {A} Comprehensive Benchmark, Instruction Dataset and Large Language Model for Finance)**, *Xie et al.* NIPS 2023. \[[Paper](http://papers.nips.cc/paper\_files/paper/2023/hash/6a386d703b50f1cf1f61ab02a15967bb-Abstract-Datasets\_and\_Benchmarks.html)\]
+
 #### Legal Domain Conversational Search
+
+1. **Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval**, *Liu et al.* SIGIR 2021. \[[Paper](https://doi.org/10.1145/3404835.3463064)\]
+2. **Query Generation and Buffer Mechanism: Towards a better conversational agent for legal case retrieval**, *Liu et al.* IPM 2022. \[[Paper](https://doi.org/10.1016/j.ipm.2022.103051)\]
+3. **Investigating Conversational Agent Action in Legal Case Retrieval**, *Liu et al.* ECIR 2023. \[[Paper](https://doi.org/10.1007/978-3-031-28244-7\_39)\]
+4. **CLosER: Conversational Legal Longformer with Expertise-Aware Passage Response Ranker for Long Contexts**, *Askari et al.* CIKM 2023. \[[Paper](https://doi.org/10.1145/3583780.3614812)\]
+   
 #### Other Domains Conversational Search
+
+1. **MMConv: An Environment for Multimodal Conversational Search across Multiple Domains**, *Liao et al.* SIGIR 2021. \[[Paper](https://doi.org/10.1145/3404835.3462970)\]
+2. **MMCoQA: Conversational Question Answering over Text, Tables, and Images**, *Li et al.* ACL 2022. \[[Paper](https://doi.org/10.18653/v1/2022.acl-long.290)\]
+3. **MoqaGPT: Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**, *Zhang et al.* EMNLP 2023. \[[Paper](https://doi.org/10.48550/arXiv.2310.13265)\]
+
 #### User-centric Conversational Search
+
+1. **ConvSearch: {A} Open-Domain Conversational Search Behavior Dataset**, *Chu et al.* arXiv 2022. \[[Paper](https://doi.org/10.48550/arXiv.2204.02659)\]
+2. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**, *Meng et al.* SIGIR 2025. \[[Paper](https://arxiv.org/abs/2506.00983)\]
+3. **A User-Centric Benchmark for Evaluating Large Language Models**, *Wang et al.* EMNLP 2024. \[[Paper](https://doi.org/10.48550/arXiv.2404.13940)\]
+4. **Towards Human-centered Proactive Conversational Agents**, *Deng et al.* SIGIR 2024. \[[Paper](https://doi.org/10.48550/arXiv.2404.12670)\]
+5. **{TITAN} : Task-oriented Dialogues with Mixed-Initiative Interactions**, *Yan et al.* IJCAI 2023. \[[Paper](https://doi.org/10.24963/ijcai.2023/583)\]
+6. **Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets**, *Abbasiantaeb et al.* SIGIR 2025. \[[Paper](https://arxiv.org/abs/2503.09902)\]
+7. **Doing Personal {LAPS:} LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search**, *Joko et al.* SIGIR 2024. \[[Paper](https://doi.org/10.48550/arXiv.2405.03480)\]
+8. **How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval**, *Mo et al.* CIKM 2024. \[[Paper](https://doi.org/10.48550/arXiv.2407.16192)\]
+9. **On the Multi-turn Instruction Following for Conversational Web Agents**, *Deng et al.* ACL 2024. \[[Paper](https://doi.org/10.48550/arXiv.2402.15057)\]
 
 ### BENCHMARK AND EVALUATION
 #### Retrieval-based Evaluation
