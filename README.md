@@ -192,7 +192,7 @@ Please kindly cite our paper if helps your research:
 #### Interpretation in Conversational Dense Retrieval
 #### Re-ranking in Conversational Search
 
-### Generation in Conversatational Search
+### Generation in Conversational Search
 #### Utilization of Historical Search Results
 #### Context Dependency Modeling
 #### Conversational Knowledge Attribution
@@ -201,4 +201,31 @@ Please kindly cite our paper if helps your research:
 #### Domain-specific Conversational Search
 #### User-centric Conversational Search
 
-### Other Resources
+### BENCHMARK AND EVALUATION
+#### Retrieval-based Evaluation
+
+1. **Evaluating the Cranfield Paradigm for Conversational Search Systems**, *Fu et al.* ICTIR 2022. \[[Paper](https://doi.org/10.1145/3539813.3545126)\]
+2. **Ditch the Gold Standard: Re-evaluating Conversational Question Answering**, *Li et al.* ACL 2022. \[[Paper](https://arxiv.org/abs/2112.08812)\]
+3. **Towards a more Robust Evaluation for Conversational Question Answering**, *Siblini et al.* ACL 2021. \[[Paper](https://doi.org/10.18653/v1/2021.acl-short.130)\]
+4. **Studying the Effectiveness of Conversational Search Refinement Through User Simulation**, *Salle et al.* ECIR 2021. \[[Paper](https://doi.org/10.1007/978-3-030-72113-8\_39)\]
+5. **How Am {I} Doing?: Evaluating Conversational Search Systems Offline**, *Lipani et al.* TOIS 2022. \[[Paper](https://doi.org/10.1145/3451160)\]
+6. **Simulating and Modeling the Risk of Conversational Search**, *Wang et al.* TOIS 2022. \[[Paper](https://doi.org/10.1145/3507357)\]
+7. **An In-depth Investigation of User Response Simulation for Conversational Search**, *Wang et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2304.07944)\]
+8. **Exploiting Simulated User Feedback for Conversational Search: Ranking**, *Owoicho et al.* SIGIR 2023. \[[Paper](https://doi.org/10.48550/arXiv.2304.13874)\]
+9. **Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents**, *Bernard et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2312.08041)\]
+10. **Evaluating Mixed-initiative Conversational Search Systems via User Simulation**, *Sekulic et al.* arXiv 2022. \[[Paper](https://doi.org/10.48550/arXiv.2204.08046)\]
+11. **Analysing Mixed Initiatives and Search Strategies during Conversational Search**, *Aliannejadi et al.* arXiv 2021. \[[Paper](https://arxiv.org/abs/2109.05955)\]
+12. **Evaluating Mixed-initiative Conversational Search Systems via User Simulation**, *Sekulic et al.* arXiv 2022. \[[Paper](https://doi.org/10.48550/arXiv.2204.08046)\]
+13. **System Initiative Prediction for Multi-turn Conversational Information Seeking**, *Meng et al.* CIKM 2023. \[[Paper](https://doi.org/10.1145/3583780.3615070)\]
+14. **Priming and Actions: An Analysis in Conversational Search Systems**, *Fu et al.* SIGIR 2023. \[[Paper](https://doi.org/10.1145/3539618.3592041)\]
+    
+#### Generation-based Evaluation
+
+1. **How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?**, *Ye et al.* arXiv 2024. \[[Paper](https://doi.org/10.48550/arXiv.2404.03302)\]
+2. **Towards Filling the Gap in Conversational Search: From Passage Retrieval to Conversational Response Generation**, *Lajewska et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2308.08911)\]
+3. **Evaluating Retrieval Quality in Retrieval-Augmented Generation**, *Salemi et al.* SIGIR 2024. \[[Paper](https://arxiv.org/abs/2404.13781)\]
+4. **The Power of Noise: Redefining Retrieval for {RAG} Systems**, *Cuconasu et al.* arXiv 2024. \[[Paper](https://doi.org/10.48550/arXiv.2401.14887)\]
+5. **Evaluating the Retrieval Component in LLM-Based Question Answering Systems**, *Alinejad et al.* arXiv 2024. \[[Paper](https://doi.org/10.48550/arXiv.2406.06458)\]
+
+
+#### User-based Evaluation
