@@ -199,6 +199,21 @@ Please kindly cite our paper if helps your research:
 
 ### Domain-specific and User-centric Conversational Search
 #### Medical Domain Conversational Search
+
+1. **MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs**, *Xia et al.* EMNLP 2022. \[[Paper](https://doi.org/10.18653/v1/2022.emnlp-demos.15)\]
+2. **Fast and Effective Biomedical Entity Linking Using a Dual Encoder**, *Bhowmik et al.* ACL 2021. \[[Paper](https://arxiv.org/abs/2103.05028)\]
+3. **MedAlpaca - An Open-Source Collection of Medical Conversational {AI} Models and Training Data**, *Han et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2304.08247)\]
+4. **BioMistral: {A} Collection of Open-Source Pretrained Large Language Models for Medical Domains**, *Labrak et al.* ACL 2024. \[[Paper](https://doi.org/10.48550/arXiv.2402.10373)\]
+5. **Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**, *Toma et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2305.12031)\]
+6. **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**, *Bao et al.* arXiv 2023. \[[Paper](https://doi.org/10.48550/arXiv.2308.14346)\]
+7. **Med-HALT: Medical Domain Hallucination Test for Large Language Models**, *Pal et al.* ACL 2023. \[[Paper](https://doi.org/10.48550/arXiv.2307.15343)\]
+8. **Joint Medical {LLM} and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability**, *Wang et al.* JMLR 2023. \[[Paper](https://doi.org/10.48550/arXiv.2402.17887)\]
+9. **Towards a Domain Expert Evaluation Framework for Conversational Search in Healthcare**, *Degachi et al.* CHI 2025. \[[Paper](https://dl.acm.org/doi/10.1145/3706599.3719675)\]
+10. **MedBench: {A} Large-Scale Chinese Benchmark for Evaluating MedicalLarge Language Models**, *Cai et al.* EMNLP 2024. \[[Paper](https://doi.org/10.48550/arXiv.2312.12806)\]
+11. **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue**, *Yang et al.* AAAI 2024. \[[Paper](https://doi.org/10.48550/arXiv.2308.03549)\]
+12. **Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries**, *Jin et al.* WWW 2024. \[[Paper](https://doi.org/10.48550/arXiv.2310.13132)\]
+13. **MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**, *Alonso et al.* Artificial Intelligence in Medicine. \[[Paper](https://dl.acm.org/doi/10.1016/j.artmed.2024.102938)\]
+
 #### Financial Domain Conversational Search
 #### Legal Domain Conversational Search
 #### Other Domains Conversational Search
