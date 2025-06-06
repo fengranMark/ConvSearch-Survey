@@ -198,7 +198,10 @@ Please kindly cite our paper if helps your research:
 #### Conversational Knowledge Attribution
 
 ### Domain-specific and User-centric Conversational Search
-#### Domain-specific Conversational Search
+#### Medical Domain Conversational Search
+#### Financial Domain Conversational Search
+#### Legal Domain Conversational Search
+#### Other Domains Conversational Search
 #### User-centric Conversational Search
 
 ### BENCHMARK AND EVALUATION
