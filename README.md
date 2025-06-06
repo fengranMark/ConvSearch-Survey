@@ -227,5 +227,11 @@ Please kindly cite our paper if helps your research:
 4. **The Power of Noise: Redefining Retrieval for {RAG} Systems**, *Cuconasu et al.* arXiv 2024. \[[Paper](https://doi.org/10.48550/arXiv.2401.14887)\]
 5. **Evaluating the Retrieval Component in LLM-Based Question Answering Systems**, *Alinejad et al.* arXiv 2024. \[[Paper](https://doi.org/10.48550/arXiv.2406.06458)\]
 
-
 #### User-based Evaluation
+1. **Towards a Domain Expert Evaluation Framework for Conversational Search in Healthcare**, *Degachi et al.* CHI 2025. \[[Paper](https://dl.acm.org/doi/10.1145/3706599.3719675)\]
+2. **Interactions with Generative Information Retrieval Systems**, *Aliannejadi et al.* arXiv 2024. \[[Paper](https://arxiv.org/abs/2407.11605)\]
+3. **How do people interact in conversational speech-only search tasks: A preliminary analysis**, *Trippas et al.* CHIIR 2017. \[[Paper](https://dl.acm.org/doi/10.1145/3020165.3022144)\]
+4. **A User-Centric Benchmark for Evaluating Large Language Models**, *Wang et al.* EMNLP 2024. \[[Paper](https://doi.org/10.48550/arXiv.2404.13940)\]
+5. **Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions**, *Trippas et al.* CIKM 2024. \[[Paper](https://dl.acm.org/doi/10.1145/3627673.3679588)\]
+6. **Towards Detecting and Mitigating Cognitive Bias in Spoken Conversational Search**, *Ji et al.* MobileHCI 2024. \[[Paper](https://dl.acm.org/doi/10.1145/3640471.3680245)\]
+
