@@ -194,6 +194,10 @@ Please kindly cite our paper if helps your research:
 4. **Phrase Retrieval for Open-Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning**,  *Jeong et al*. ACL(Findings) 2023.  \[[Paper](https://aclanthology.org/2023.findings-acl.374.pdf)\]
 5. **A Graph-guided Multi-round Retrieval Method for Conversational Open-domain Question Answering**,  *Li et al*. arXiv 2021.  \[[Paper](https://arxiv.org/pdf/2104.08443)\]
 6. **Dynamic Graph Reasoning for Conversational Open-Domain Question Answering**,  *Li et al*. TOIS 2022.  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3498557)\]
+7. **Conv-CoA: Improving Open-domain Question Answering in Large Language Models via Conversational Chain-of-Action**,  *Pan et al*. arXiv 2024.  \[[Paper](https://arxiv.org/pdf/2405.17822)\]
+8. **ChatRetriever: Adapting Large Language Models for Generalized and Robust Conversational Dense Retrieval**,  *Mao et al*. EMNLP 2024.  \[[Paper](https://aclanthology.org/2024.emnlp-main.71.pdf)\]
+
+
 #### Context Denoising
 #### Data Augmentation
 #### Interpretation in Conversational Dense Retrieval
