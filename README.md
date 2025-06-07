@@ -190,6 +190,8 @@ Please kindly cite our paper if helps your research:
 
 1. **Attentive History Selection for Conversational Question Answering**, *Qu et al*. CIKM 2019. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905)\]
 2. **Open-Retrieval Conversational Question Answering**,  *Qu et al*. SIGIR 2020.  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401110)\]
+3. **CoSPLADE: Contextualizing SPLADE for Conversational Information Retrieval**, *Le et al*. ECIR 2023.  \[[Paper](https://dl.acm.org/doi/10.1007/978-3-031-28244-7_34)\]
+4. **Phrase Retrieval for Open-Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning**,  *Jeong et al*. ACL 2023.  \[[Paper](https://aclanthology.org/2023.findings-acl.374.pdf)\]
 #### Context Denoising
 #### Data Augmentation
 #### Interpretation in Conversational Dense Retrieval
