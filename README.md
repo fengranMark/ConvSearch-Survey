@@ -240,8 +240,6 @@ Please kindly cite our paper if helps your research:
 2. **Boosting Conversational Question Answering with Fine-Grained Retrieval-Augmentation and Self-Check**, *Ye et al*. SIGIR 2024. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657980)\]
 
 
-#### Conversational Knowledge Attribution
-
 ### Domain-specific and User-centric Conversational Search
 #### Medical Domain Conversational Search
 
