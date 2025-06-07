@@ -235,6 +235,11 @@ Please kindly cite our paper if helps your research:
 
 ### Generation in Conversational Search
 #### Utilization of Historical Search Results
+
+1. **Conv-CoA: Improving Open-domain Question Answering in Large Language Models via Conversational Chain-of-Action**, *Pan et al*. ArXiv 2024. \[[Paper](https://arxiv.org/pdf/2405.17822)\]
+2. **Boosting Conversational Question Answering with Fine-Grained Retrieval-Augmentation and Self-Check**, *Ye et al*. SIGIR 2024. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657980)\]
+
+   
 #### Context Dependency Modeling
 #### Conversational Knowledge Attribution
 
