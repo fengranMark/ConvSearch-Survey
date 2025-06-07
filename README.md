@@ -199,6 +199,15 @@ Please kindly cite our paper if helps your research:
 
 
 #### Context Denoising
+
+1. **Few-Shot Conversational Dense Retrieval**, *Yu et al*. SIGIR 2021. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462856)\]
+2. **Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval**, *Mao et al*. SIGIR 2022. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531961)\]
+3. **Zero-shot Query Contextualization for Conversational Search**, *Krasakis et al*. SIGIR 2022. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531769)\]
+4. **Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search**, *Mo et al*. CIKM 2024. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679534)\]
+5. **Learning to Relate to Previous Turns in Conversational Search**, *Mo et al*. KDD 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599411)\]
+6. **History-Aware Conversational Dense Retrieval**, *Mo et al*. ACL(Findings) 2024. \[[Paper](https://aclanthology.org/2024.findings-acl.792.pdf)\]
+
+
 #### Data Augmentation
 #### Interpretation in Conversational Dense Retrieval
 #### Re-ranking in Conversational Search
