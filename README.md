@@ -187,6 +187,9 @@ Please kindly cite our paper if helps your research:
 
 ### Conversational Retrieval
 #### Conversation Modeling
+
+1. **Attentive History Selection for Conversational Question Answering**, *Qu et al*. CIKM 2019. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905)\]
+2. **Open-Retrieval Conversational Question Answering**,  *Qu et al*. SIGIR 2020.  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401110)\]
 #### Context Denoising
 #### Data Augmentation
 #### Interpretation in Conversational Dense Retrieval
