@@ -209,6 +209,16 @@ Please kindly cite our paper if helps your research:
 
 
 #### Data Augmentation
+
+1. **Contextualized Query Embeddings for Conversational Search**, *Lin et al*. EMNLP 2021. \[[Paper](https://aclanthology.org/2021.emnlp-main.77.pdf)\]
+2. **InstructoR: Instructing Unsupervised Conversational Dense Retrieval with Large Language Models**, *Jin et al*. EMNLP(Findings) 2023. \[[Paper](https://aclanthology.org/2023.findings-emnlp.443.pdf)\]
+3. **Saving Dense Retriever from Shortcut Dependency in Conversational Search**, *Kim et al*. EMNLP 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.701.pdf)\]
+4. **ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**, *Mao et al*. EMNLP 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.190.pdf)\]
+5. **ConvSDG: Session Data Generation for Conversational Search**, *Mo et al*. WWW(Companion Volume) 2024. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651940)\]
+6. **CONVERSER: Few-Shot Conversational Dense Retrieval with Synthetic Data Generation**, *Huang et al*. SIGDIAL 2023. \[[Paper](https://aclanthology.org/2023.sigdial-1.34.pdf)\]
+7. **Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation**, *Chen et al*. ACL 2024. \[[Paper](https://aclanthology.org/2024.acl-long.149.pdf)\]
+
+   
 #### Interpretation in Conversational Dense Retrieval
 #### Re-ranking in Conversational Search
 
