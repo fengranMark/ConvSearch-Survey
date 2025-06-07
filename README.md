@@ -220,6 +220,11 @@ Please kindly cite our paper if helps your research:
 
    
 #### Interpretation in Conversational Dense Retrieval
+
+1. **Learning Denoised and Interpretable Session Representation for Conversational Search**, *Mao et al*. WWW 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583265)\]
+2. **Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**, *Christmann et al*. SIGIR 2023. \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591682)\]
+3. **Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding**, *Cheng et al*. ACL 2024. \[[Paper](https://aclanthology.org/2024.acl-long.159.pdf)\]
+   
 #### Re-ranking in Conversational Search
 
 ### Generation in Conversational Search
