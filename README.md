@@ -1,5 +1,5 @@
-# ConvSearch-Survey
-This is the paper list related to the newest survey paper of conversational search -- [A Survey of Conversational Search](https://arxiv.org/pdf/2410.15576), according to the structure of the paper. We will keep updating this reading list and make it much more convenient for the research community.
+# Conversational Search Survey Under the Era of LLM
+This is the paper list related to the newest survey paper on conversational search -- [A Survey of Conversational Search](https://arxiv.org/pdf/2410.15576), according to the structure of the paper. We will keep updating this reading list and make it much more convenient for the research community.
 
 Feel free to contact us if you find any mistakes or have any advice.
 
