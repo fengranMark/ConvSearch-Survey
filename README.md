@@ -1,10 +1,10 @@
 # ConvSearch-Survey
-This is the collection of papers related to conversarional search. These papers are organized according to our survey paper [A Survey of Conversational Search](https://arxiv.org/pdf/2410.15576). 
+This is the paper list related to the newest survey paper of conversational search - [A Survey of Conversational Search](https://arxiv.org/pdf/2410.15576), according to the structure of the paper. We will keep updating this reading list and make it much more convenient for the research community.
 
-Feel free to contact us if you find a mistake or have any advice.
+Feel free to contact us if you find any mistakes or have any advice.
 
 ## 🌟 Citation
-Please kindly cite our paper if helps your research:
+Please kindly cite our paper if it helps your research:
 ```BibTex
 @article{convsearch_survey,
   title={A Survey of Conversational Search},
