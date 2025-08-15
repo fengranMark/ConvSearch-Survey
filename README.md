@@ -6,11 +6,12 @@ Feel free to contact us if you find any mistakes or have any advice.
 ## 🌟 Citation
 Please kindly cite our paper if it helps your research:
 ```BibTex
-@article{convsearch_survey,
-  title={A Survey of Conversational Search},
+@article{mo2024survey,
+  title={A survey of conversational search},
   author={Mo, Fengran and Mao, Kelong and Zhao, Ziliang and Qian, Hongjin and Chen, Haonan and Cheng, Yiruo and Li, Xiaoxi and Zhu, Yutao and Dou, Zhicheng and Nie, Jian-Yun},
-  journal={arXiv preprint arXiv:2410.15576},
-  year={2024}
+  journal={ACM Transactions on Information Systems},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 
